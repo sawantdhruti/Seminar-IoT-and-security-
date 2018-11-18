@@ -1,0 +1,24 @@
+\begin{thebibliography}{4}
+
+\bibitem{website}
+{Why IoT with ICN?}.
+\newblock \url{http://conferences2.sigcomm.org/acm-icn/2017/files/tutorial-ndn-ccnlite-riot/2-Why-ICN-for-IoT.pdf}.
+
+
+\bibitem{basepaper}
+ {Sabrina Sicari, Alessandra Rizzardi, Luigi Alfredo Grieco, Alberto Coen-Porisini.}
+\newblock {A Secure ICN-IoT Architecture}.
+\newblock {\em IEEE International Conference on Communications Workshops (ICC Workshops)}, 2017.
+
+\bibitem{paper}
+{Mauro Conti,Giorgio Di Natale,Annelie Heuser,Thomas Pöppelmann,Nele Mentens.}
+\newblock {Do we need a holistic approach for the design of secure IoT
+systems?}.
+\newblock {\em Proceedings of the Computing Frontiers Conference}, 2017.
+
+\bibitem{sirspaper}
+ {Emmanuel Baccelli,Christian Mehlis,Oliver Hahm,Thomas C. Schmidt,Matthias Wählisch.}
+\newblock {Information centric networking in the IoT: experiments with NDN in the wild}.
+\newblock {\em Proceedings of the 1st ACM Conference on Information-Centric Networking}, 2014.
+
+\end{thebibliography}
