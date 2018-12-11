@@ -2,4 +2,9 @@ This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
 The style file: abbrv.bst
 I found no \citation commands---while reading file report.aux
 Database file #1: bibliography.bib
-(There was 1 error message)
+I was expecting a `,' or a `}'---line 10 of file bibliography.bib
+ : 
+ : @article{basepaper,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 2 error messages)

@@ -1,9 +1,16 @@
-\begin{thebibliography}{4}
+\begin{thebibliography}{6}
 
 \bibitem{website}
 {Why IoT with ICN?}.
 \newblock \url{http://conferences2.sigcomm.org/acm-icn/2017/files/tutorial-ndn-ccnlite-riot/2-Why-ICN-for-IoT.pdf}.
 
+\bibitem{Architecturewebsite}
+{ICN based Architecture for IoT}.
+\newblock \url{https://tools.ietf.org/id/draft-zhang-icnrg-icniot-architecture-01.html}.
+
+\bibitem{Botherwebsite}
+{Why Bother with ICN?}.
+\newblock \url{http://chris-wood.github.io/2016/02/05/Why-ICN.html}.
 
 \bibitem{basepaper}
  {Sabrina Sicari, Alessandra Rizzardi, Luigi Alfredo Grieco, Alberto Coen-Porisini.}
