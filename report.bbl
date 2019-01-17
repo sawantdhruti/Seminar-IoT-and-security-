@@ -1,4 +1,5 @@
-\begin{thebibliography}{6}
+
+\begin{thebibliography}{7}
 
 \bibitem{website}
 {Why IoT with ICN?}.
@@ -12,16 +13,19 @@
 {Why Bother with ICN?}.
 \newblock \url{http://chris-wood.github.io/2016/02/05/Why-ICN.html}.
 
+\bibitem{Designwebsite}
+{Design Considerations for Applying ICN to IoT}.
+\newblock \url{https://tools.ietf.org/id/draft-irtf-icnrg-icniot-01.html}.
+
 \bibitem{basepaper}
  {Sabrina Sicari, Alessandra Rizzardi, Luigi Alfredo Grieco, Alberto Coen-Porisini.}
 \newblock {A Secure ICN-IoT Architecture}.
 \newblock {\em IEEE International Conference on Communications Workshops (ICC Workshops)}, 2017.
 
 \bibitem{paper}
-{Mauro Conti,Giorgio Di Natale,Annelie Heuser,Thomas Pöppelmann,Nele Mentens.}
-\newblock {Do we need a holistic approach for the design of secure IoT
-systems?}.
-\newblock {\em Proceedings of the Computing Frontiers Conference}, 2017.
+{Wentao Shang,Yingdi Yu,Annelie Heuser,Ralph Droms.}
+\newblock {Challenges in IoT Networking via TCP/IP Architecture}.
+\newblock {\em NDN, Technical Report NDN-0038}, 2016.
 
 \bibitem{sirspaper}
  {Emmanuel Baccelli,Christian Mehlis,Oliver Hahm,Thomas C. Schmidt,Matthias Wählisch.}
@@ -29,3 +33,5 @@ systems?}.
 \newblock {\em Proceedings of the 1st ACM Conference on Information-Centric Networking}, 2014.
 
 \end{thebibliography}
+
+

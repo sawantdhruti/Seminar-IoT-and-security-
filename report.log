@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.10)  11 DEC 2018 20:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.11.10)  17 JAN 2019 22:24
 entering extended mode
 **./report.tex
 (report.tex
@@ -526,144 +526,145 @@ LaTeX Info: Redefining \nameref on input line 18.
 \openout3 = `report.out'.
 
  (Text/abstract.tex)
-(Text/introduction.tex) (Text/domain-survey.tex [1{C:/Users/star_/AppData/Local
-/MiKTeX/2.9/pdftex/config/pdftex.map}
-
-
-]
-<Figures/tcpstack.png, id=64, 716.6775pt x 211.79124pt>
+(Text/introduction.tex
+<Figures/tcpstack.png, id=145, 716.6775pt x 211.79124pt>
 File: Figures/tcpstack.png Graphic file (type png)
 <use Figures/tcpstack.png>
-Package pdftex.def Info: Figures/tcpstack.png  used on input line 13.
-(pdftex.def)             Requested size: 201.60077pt x 59.57584pt.
-<Figures/stack.png, id=66, 434.62375pt x 238.8925pt>
+Package pdftex.def Info: Figures/tcpstack.png  used on input line 12.
+(pdftex.def)             Requested size: 412.80157pt x 121.99231pt.
+ [1{C:/Users/star_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]) (Text/domain-survey.tex
+<Figures/stack.png, id=154, 434.62375pt x 238.8925pt>
 File: Figures/stack.png Graphic file (type png)
 <use Figures/stack.png>
-Package pdftex.def Info: Figures/stack.png  used on input line 23.
+Package pdftex.def Info: Figures/stack.png  used on input line 13.
 (pdftex.def)             Requested size: 201.60077pt x 110.81047pt.
-<Figures/archi.png, id=68, 472.01344pt x 377.15906pt>
-File: Figures/archi.png Graphic file (type png)
-<use Figures/archi.png>
-Package pdftex.def Info: Figures/archi.png  used on input line 35.
-(pdftex.def)             Requested size: 201.60077pt x 161.08754pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Figures/Architecture.png, id=71, 700.6175pt x 359.3425pt>
+[2 <./Figures/tcpstack.png>] [3 <./Figures/stack.png>]
+<Figures/archi.png, id=168, 472.01344pt x 377.15906pt>
+File: Figures/archi.png Graphic file (type png)
+<use Figures/archi.png>
+Package pdftex.def Info: Figures/archi.png  used on input line 59.
+(pdftex.def)             Requested size: 201.60077pt x 161.08754pt.
+<Figures/Architecture.png, id=171, 700.6175pt x 359.3425pt>
 File: Figures/Architecture.png Graphic file (type png)
 <use Figures/Architecture.png>
-Package pdftex.def Info: Figures/Architecture.png  used on input line 52.
+Package pdftex.def Info: Figures/Architecture.png  used on input line 85.
 (pdftex.def)             Requested size: 201.60077pt x 103.40063pt.
-[2 <./Figures/tcpstack.png> <./Figures/stack.png> <./Figures/archi.png> <./Figu
-res/Architecture.png>]) (Text/technique-in-depth.tex
-<Figures/Secure-device-discovery-with-pre-load-secure-keys.png, id=88, 518.9387
-5pt x 357.335pt>
+ [4 <./Figures/archi.png> <./Figures/Architecture.png>]
+Underfull \vbox (badness 1097) has occurred while \output is active []
+
+ [5])
+(Text/technique-in-depth.tex
+<Figures/Secure-device-discovery-with-pre-load-secure-keys.png, id=189, 518.938
+75pt x 357.335pt>
 File: Figures/Secure-device-discovery-with-pre-load-secure-keys.png Graphic fil
 e (type png)
 <use Figures/Secure-device-discovery-with-pre-load-secure-keys.png>
 Package pdftex.def Info: Figures/Secure-device-discovery-with-pre-load-secure-k
-eys.png  used on input line 11.
-(pdftex.def)             Requested size: 201.60077pt x 138.82028pt.
-<Figures/Secure-service-discovery.png, id=90, 853.1875pt x 358.33875pt>
+eys.png  used on input line 9.
+(pdftex.def)             Requested size: 252.0pt x 173.52536pt.
+<Figures/Secure-device-discovery-without-key.png, id=190, 349.305pt x 238.64156
+pt>
+File: Figures/Secure-device-discovery-without-key.png Graphic file (type png)
+<use Figures/Secure-device-discovery-without-key.png>
+Package pdftex.def Info: Figures/Secure-device-discovery-without-key.png  used 
+on input line 16.
+(pdftex.def)             Requested size: 252.0pt x 172.16406pt.
+<Figures/Secure-service-discovery.png, id=191, 853.1875pt x 358.33875pt>
 File: Figures/Secure-service-discovery.png Graphic file (type png)
 <use Figures/Secure-service-discovery.png>
 Package pdftex.def Info: Figures/Secure-service-discovery.png  used on input li
-ne 20.
-(pdftex.def)             Requested size: 201.60077pt x 84.66891pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/Secure-naming-service.jpg, id=92, 846.16125pt x 394.47375pt>
+ne 23.
+(pdftex.def)             Requested size: 516.0pt x 216.73273pt.
+ [6 <./Figures/Secure-device-discovery-with-pre-load-secure-keys.png> <./Figure
+s/Secure-device-discovery-without-key.png>]
+<Figures/Secure-naming-service.jpg, id=201, 846.16125pt x 394.47375pt>
 File: Figures/Secure-naming-service.jpg Graphic file (type jpg)
 <use Figures/Secure-naming-service.jpg>
 Package pdftex.def Info: Figures/Secure-naming-service.jpg  used on input line 
-30.
-(pdftex.def)             Requested size: 201.60077pt x 93.98341pt.
-<Figures/User-registration-secure-subscribe.png, id=94, 434.62375pt x 357.335pt
->
+36.
+(pdftex.def)             Requested size: 516.0pt x 240.56242pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./Figures/Secure-service-discovery.png>]
+<Figures/User-registration-secure-subscribe.png, id=212, 434.62375pt x 357.335p
+t>
 File: Figures/User-registration-secure-subscribe.png Graphic file (type png)
 <use Figures/User-registration-secure-subscribe.png>
 Package pdftex.def Info: Figures/User-registration-secure-subscribe.png  used o
-n input line 41.
-(pdftex.def)             Requested size: 201.60077pt x 165.7501pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Figures/Secure-content-delivery-user.png, id=96, 402.50375pt x 453.695pt>
+n input line 62.
+(pdftex.def)             Requested size: 252.0pt x 207.18901pt.
+ [8 <./Figures/Secure-naming-service.jpg> <./Figures/User-registration-secure-s
+ubscribe.png>]
+<Figures/Secure-content-delivery-user.png, id=222, 402.50375pt x 453.695pt>
 File: Figures/Secure-content-delivery-user.png Graphic file (type png)
 <use Figures/Secure-content-delivery-user.png>
 Package pdftex.def Info: Figures/Secure-content-delivery-user.png  used on inpu
-t line 50.
-(pdftex.def)             Requested size: 201.60077pt x 227.24155pt.
+t line 75.
+(pdftex.def)             Requested size: 252.0pt x 284.0502pt.
+) (Text/discussion.tex
+Underfull \vbox (badness 6428) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (Text/discussion.tex [3 <./Figures/Secure-device-discovery-with-pre-load-secu
-re-keys.png> <./Figures/Secure-service-discovery.png> <./Figures/Secure-naming-
-service.jpg>]) (Text/conclusion.tex
-Underfull \vbox (badness 1584) has occurred while \output is active []
-
-)
-(report.bbl
+ [9 <./Figures/Secure-content-delivery-user.png>]) (Text/conclusion.tex) (repor
+t.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 5.
+(Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 5.
+(Font)              <6> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 5.
+(Font)              <5> on input line 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--10
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
 []\OT1/ptm/m/n/8 ICN based Ar-chi-tec-ture for IoT.  [][]$https : / / tools . i
 etf . org / id /
  []
 
 
-Underfull \hbox (badness 5302) in paragraph at lines 12--14
+Underfull \hbox (badness 5302) in paragraph at lines 13--15
 []\OT1/ptm/m/n/8 Why Bother with ICN?.  [][]$http : / / chris-[]wood . github .
  io / 2016 / 02 / 05 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--25
-[]\OT1/ptm/m/n/8 Mauro Conti,Giorgio Di Na-tale,Annelie Heuser,Thomas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
 []\OT1/ptm/m/n/8 Emmanuel Bac-celli,Christian Mehlis,Oliver Hahm,Thomas C.
  []
 
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
- [4 <./Figures/User-registration-secure-subscribe.png> <./Figures/Secure-conten
-t-delivery-user.png>]
+ [10]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
  (report.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 3ECFED09A07FA7E4FB248423A1DFE74A;814.
+(rerunfilecheck)             Checksum: F0CFECB5CEACEBB1A860136E1D99DD7F;2604.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 6979 strings out of 492970
- 109365 string characters out of 3126593
- 203027 words of memory out of 3000000
- 10732 multiletter control sequences out of 15000+200000
+ 7043 strings out of 492970
+ 110864 string characters out of 3126593
+ 204448 words of memory out of 3000000
+ 10765 multiletter control sequences out of 15000+200000
  37044 words of font info for 70 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,35p,1528b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 28i,7n,35p,1882b,405s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/star_/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/star_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a
 .pfb><C:/Users/star_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/ut
 mbi8a.pfb><C:/Users/star_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
 es/utmr8a.pfb><C:/Users/star_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 /times/utmri8a.pfb>
-Output written on report.pdf (4 pages, 359104 bytes).
+Output written on report.pdf (10 pages, 448517 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 46 named destinations out of 1000 (max. 500000)
- 150 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 331 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,13 +1,35 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Networking in IoT}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{The Protocol stack in ICN}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{IoT Middleware architecture}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Secure Functionalities}{}% 5
-\BOOKMARK [2][-]{subsection.3.1}{Secure device Discovery}{section.3}% 6
-\BOOKMARK [2][-]{subsection.3.2}{Secure service Discovery}{section.3}% 7
-\BOOKMARK [2][-]{subsection.3.3}{Secure naming service}{section.3}% 8
-\BOOKMARK [2][-]{subsection.3.4}{User registration}{section.3}% 9
-\BOOKMARK [2][-]{subsection.3.5}{Secure content discovery}{section.3}% 10
-\BOOKMARK [1][-]{section.4}{Discussion}{}% 11
-\BOOKMARK [1][-]{section.5}{Conclusions}{}% 12
-\BOOKMARK [1][-]{section*.1}{References}{}% 13
+\BOOKMARK [2][-]{subsection.2.2}{IoT Architectural Requirements}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Naming}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{ Security and Privacy }{subsection.2.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Scalability }{subsection.2.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Resource Constraints }{subsection.2.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Traffic Characteristics }{subsection.2.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.6}{Contextual Communication }{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.7}{Handling Mobility }{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.8}{ Storage and Caching }{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.9}{Communication Reliability }{subsection.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.2.10}{Self-Organization }{subsection.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.2.11}{Ad hoc and Infrastructure Mode }{subsection.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.12}{IoT Platform Management }{subsection.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.3}{IoT Middleware architecture}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.3.1}{Advantages of using ICN for IoT}{subsection.2.3}% 18
+\BOOKMARK [3][-]{subsubsection.2.3.2}{Unified IoT architecture}{subsection.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.4}{ICN-IoT Middleware Functions}{section.2}% 20
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Onboarding}{subsection.2.4}% 21
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Detailed Discovery Process}{subsection.2.4}% 22
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Naming Service}{subsection.2.4}% 23
+\BOOKMARK [3][-]{subsubsection.2.4.4}{Service Discovery}{subsection.2.4}% 24
+\BOOKMARK [3][-]{subsubsection.2.4.5}{Context Processing and Storage}{subsection.2.4}% 25
+\BOOKMARK [3][-]{subsubsection.2.4.6}{Security}{subsection.2.4}% 26
+\BOOKMARK [1][-]{section.3}{Secure Functionalities}{}% 27
+\BOOKMARK [2][-]{subsection.3.1}{Secure device Discovery}{section.3}% 28
+\BOOKMARK [2][-]{subsection.3.2}{Secure service Discovery}{section.3}% 29
+\BOOKMARK [2][-]{subsection.3.3}{Secure naming service}{section.3}% 30
+\BOOKMARK [2][-]{subsection.3.4}{User registration}{section.3}% 31
+\BOOKMARK [2][-]{subsection.3.5}{Secure content delivery}{section.3}% 32
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 33
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 34
+\BOOKMARK [1][-]{section*.1}{References}{}% 35
