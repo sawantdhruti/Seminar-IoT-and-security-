@@ -1,13 +1,21 @@
 \section{Discussion}
 \label{sec:discussion}
-There are ccertain open research problems in the IoT-ICN application:
+There are certain open research problems in the IoT-ICN application:
 \begin{enumerate}
-\item How do applications get permission to publish and operate under a given name?
-\item How are namespace collisions handled?
-\item Can we break our dependence on a centralized or decentralized PKI?
-\item How can we adopt distributed trust models?
-\item How can we enable object encryption without sacrificing privacy ?
-\item Can we build better broadcast encryption schemes that can handle the foreseen IoT scale?
-\item How do we create secure routing hints?
-\item Can we decouple “application names” from “network names”?
+\item How do applications get permission to publish and operate under a given name?\par
+As per our middleware, we are giving names to these devices through LSGs and aggregators but provides the permission to assign these names, is it the manufacturer of the device? In that case the system will become depended on the manufacturer and loose its heterogeneous behavior. Just as we have Internet Assigned Numbers Authority (IANA) for IP addresses , we would also require such a body to allot names. This question is still unanswered.
+\item How are namespace collisions handled? \par
+Collisions are unavoidable whenever members of a very large set (such as all possible person names, or all possible computer files) are mapped to a relatively short bit string. This is merely an instance of the pigeonhole principle. To what degree could such namespace collision be acceptable. Or can we have a work about around it by defining scopes based on certain parameters example, geographic locations.
+\item Can we break our dependence on a centralized or decentralized PKI? \par
+In cryptography, a web of trust is a concept used to establish the authenticity of the binding between a public key and its owner. Its decentralized trust model is an alternative to the centralized trust model of a public key infrastructure (PKI), which relies exclusively on a certificate authority (or a hierarchy of such). As with computer networks, there are many independent webs of trust, and any user (through their identity certificate) can be a part of, and a link between, multiple webs. However such a system is one of the only ways we know that ensures the authenticity of the public key. Research on this topic is also ongoing.
+\item How can we adopt distributed trust models? \par
+One of the solutions is of trusting your bank to make a verification for you. For this trust model. The application verifies with the bank you are with to verify that you are the person, you say you are. Thereby providing a third party trust system.
+\item How can we enable object encryption without sacrificing privacy ? \par
+With the advent of block chain technologies, this can be to a certain extend achieved. We provide privacy through the block chain and when the system is changed it ensures that your data is encrypted for all illegitimate users. However, this is not a solution for all the other web applications available. Is there a way to map the user to a trust model that does not disclose the identity of the user. 
+\item Can we build better broadcast encryption schemes that can handle the foreseen IoT scale?\par
+Broadcast encryption is a type of encryption scheme in which encrypted data is transmitted on the broadcast channel in such a way that only privileged receivers could decrypt it. However there are always ways to decrypt these codes and thus allowing access to each and every object that was encrypted by this scheme. For the ever increasing IoT scale finding such schemes would also be a task because they exert a massive computational work which is not ideal for IoT devices.  
+\item How do we create secure routing hints? \par
+How the names are meant to create strategic points for the devices to locate different content is still under study. These depend on various naming schemes used.
+\item Can we decouple “application names” from “network names”? \par
+Network names which are currently addressed by IP addresses are easy to distinguish from hosts and their applications but with ICN we intend to couple all naming, here too we would have to look into how such names can distinguish each other.
 \end{enumerate}
